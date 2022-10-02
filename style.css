@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-color:red;
+}
+h2{
+    color: brown;
+}
+body{
+    background-color: darkseagreen;
+}
+.descendant-selector div p {
+    background-color: chartreuse;
+}
+.para1{
+    padding: 70px;
+    border: 2px solid color red;
+}
+.para2{
+    margin: 70px;
+    border: 2px solid color blue;
+}
